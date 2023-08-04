@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prajapati dev 
-- 👀 I’m interested in  bug bounty
+- 👀 I’m interested in  bug bounty 🐞
 - 🌱 I’m currently learning redteaming/penetration testing
 - 🏫 Bapu Knowledge Village
 
