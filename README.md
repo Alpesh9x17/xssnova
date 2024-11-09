@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sohll
+- 👋 Hi, I’m @Alpesh
 - 👀 I’m interested in  bug bounty 🐞
 - 🌱 I’m currently learning redteaming/penetration testing
-- 🏫 university of sargodha
+- 🏫 yorkville university
 
 <!---
 xssnova/xssnova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
