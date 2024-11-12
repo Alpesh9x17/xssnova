@@ -1,43 +1,27 @@
-# Hi There! 🌐
+# 👋 **Hey there! I'm Alpesh Prajapati**
 
-```python
-import GitHub
+🔍 **Penetration Tester | Red Team Enthusiast | Cybersecurity Researcher**
 
-class AlpeshPrajapati:
-    def __init__(self):
-        self.name = "Alpesh Prajapati"
-        self.aka = ["The Aspiring Red Teamer"]
-        self.status = "Beginner Penetration Tester"
-        self.certifications = ["CRTP", "SecOps CAP", "CNPen"]
-        self.location = "India"
-        self.hobby = "Exploring Cybersecurity"
+---
 
-    def skills(self):
-        languages = ["Python", "PowerShell", "Bash"]
-        operating_systems = ["Linux", "Windows"]
-        tools = ["Nmap", "Metasploit", "Burp Suite", "Wireshark"]
-        return f"Languages: {languages}\nOS Expertise: {operating_systems}\nTools: {tools}"
+🛡️ **Passionate about uncovering vulnerabilities and fortifying defenses.** With a background in ethical hacking, I focus on mastering offensive security to help organizations stay one step ahead of threats.
 
-    def learning_path(self):
-        goals = [
-            "Red Teaming Tactics",
-            "Web Application Security",
-            "Advanced Network Penetration",
-            "Privilege Escalation",
-        ]
-        return f"Current Learning Path: {goals}"
+💻 **Skills:** 
+- Mastery of **Linux** & **Windows OS**
+- Proficiency in **Python, PowerShell, Bash**
+- Expertise in **Web Application Security**, **Network Penetration Testing**, **API Testing**
 
-    def connect(self):
-        return {
-            "LinkedIn": "https://www.linkedin.com/in/alpesh-prajapati-724b22325/"
-        }
+🎓 **Certifications:**
+- 🏅 **CRTP**
+- 🏅 **CNSP**
+- 🏅 **CNPen**
 
-if __name__ == "__main__":
-    me = AlpeshPrajapati()
-    print("👋 Welcome to my GitHub!")
-    print("🔒 Skills:")
-    print(me.skills())
-    print("\n🎯 Current Learning Path:")
-    print(me.learning_path())
-    print("\n🌐 Connect with me:")
-    print(me.connect())
+🔗 **What I’m working on:**
+- Developing custom tools for Penetration Testing
+
+🌐 **Connect with me:**
+- [🔗 LinkedIn](https://www.linkedin.com/in/alpesh-prajapati-724b22325/)
+
+🚀 **Fun Fact:** I love breaking things (responsibly) to make them stronger. 
+
+---
