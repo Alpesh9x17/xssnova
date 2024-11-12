@@ -1,30 +1,27 @@
-
-
-
-👋 **Hey there! I'm [Your Name]**
+# 👋 **Hey there! I'm Alpesh Prajapati**
 
 🔍 **Penetration Tester | Red Team Enthusiast | Cybersecurity Researcher**
 
 ---
 
-🛡️ **Passionate about uncovering vulnerabilities and fortifying defenses.** With a background in ethical hacking, my focus is on mastering offensive security to help organizations stay one step ahead of threats.
+🛡️ **Passionate about uncovering vulnerabilities and fortifying defenses.** With a background in ethical hacking, I focus on mastering offensive security to help organizations stay one step ahead of threats.
 
 💻 **Skills:** 
-- Advanced knowledge of **Linux** & **Windows OS**
-- Proficiency in **Python, PowerShell, Bash**, and **C/C++**
-- Expertise in **Web Application Security**, **Network Protocols**, and **Privilege Escalation**
-- Deep understanding of **Malware Analysis** and **Reverse Engineering**
-- Adept in using **offensive security tools**: Metasploit, Cobalt Strike, Nmap, and more.
+- Mastery of **Linux** & **Windows OS**
+- Proficiency in **Python, PowerShell, Bash**
+- Expertise in **Web Application Security**, **Network Penetration Testing**, **API Testing**
+
+🎓 **Certifications:**
+- 🏅 **CRTP (Certified Red Team Professional)**
+- 🏅 **CNSP**
+- 🏅 **CNPen**
 
 🔗 **What I’m working on:**
-- Creating custom tools for Red Team engagements.
-- Developing my unique approach to evasion techniques and post-exploitation methods.
+- Developing custom tools for Penetration Testing
 
 🌐 **Connect with me:**
-
+- [🔗 LinkedIn](https://www.linkedin.com/in/alpesh-prajapati-724b22325/)
 
 🚀 **Fun Fact:** I love breaking things (responsibly) to make them stronger. 
 
 ---
-
-Feel free to personalize it further with your own details, links, and projects!
