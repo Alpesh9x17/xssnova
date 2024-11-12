@@ -12,7 +12,7 @@
 - Expertise in **Web Application Security**, **Network Penetration Testing**, **API Testing**
 
 🎓 **Certifications:**
-- 🏅 **CRTP (Certified Red Team Professional)**
+- 🏅 **CRTP**
 - 🏅 **CNSP**
 - 🏅 **CNPen**
 
