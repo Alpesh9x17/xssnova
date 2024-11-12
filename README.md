@@ -1,6 +1,5 @@
-Here's a cool GitHub bio for a penetration tester:
 
----
+
 
 👋 **Hey there! I'm [Your Name]**
 
